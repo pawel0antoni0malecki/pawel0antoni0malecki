@@ -1,0 +1,22 @@
+{
+  "processed_commits": [
+    "aa78dedf2ccb0363a382e0079cd7f5095d40dc35",
+    "9a09206e13b79727f6480a15f78acf6fb4b3a45c",
+    "66d7afc684e2b1c528f36435ccd696308bdd19e7",
+    "47e260c47d51b991d8d5e48af76850a6b65b07a1",
+    "a92b2d2803405eb222365b93c1d8c23496e3a0c5",
+    "eb9a36a6f0dfe8efc95f4ebbf7e33ed41eefdbc1",
+    "9c7a800da7160bd5c9e6305bd8a060673fb44c3b",
+    "dcb316cf2048095876773a2c67661ec4ea6c6fbb",
+    "a0dab405595a60145d5c832dbd557302e94ce626",
+    "063590fcd975a15ad20ff5322fa8ac19eb4f356c"
+  ],
+  "xp_by_language": {
+    "Inne": 0,
+    "YAML": 71,
+    "Markdown": 18,
+    "Python": 208,
+    "HTML": 32
+  },
+  "total_xp": 329
+}
