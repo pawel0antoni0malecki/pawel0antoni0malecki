@@ -1,20 +1,20 @@
 # Cześć, tu Paweł Antoni Małecki 👋
 
 <!-- XP-START -->
-## 🧑‍💻 Poziom programisty: 2
+## 🧑‍💻 Poziom programisty: 8
 
-`█████████████░░░░░░░` 104/156 XP do następnego poziomu
-Łącznie zdobyte XP: **329**
+`████████████████░░░░` 487/590 XP do następnego poziomu
+Łącznie zdobyte XP: **2459**
 
 ### XP wg języka
 
 | Język | XP |
 |---|---|
-| Python | 208 XP |
+| Python | 2288 XP |
 | YAML | 71 XP |
+| Inne | 50 XP |
 | HTML | 32 XP |
 | Markdown | 18 XP |
-| Inne | 0 XP |
 <!-- XP-END -->
 
 ---
